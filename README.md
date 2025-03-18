@@ -9,8 +9,8 @@ I am passionate about **computational biology, ECG analysis, and machine learnin
 
 ## 🔍 **What I Do**  
 ### 🧬 Featured Projects  
-🔹 **ECG/HRV Analysis** – Extracted and analyzed **heart rate variability (HRV)** using **NeuroKit2**. AI/ML application on ECG data. 
-🔹 **Non coding variant analysis** – Benchmarking of different variant analysis tools  
+🔹 **ECG/HRV Analysis** – Extracted and analyzed **heart rate variability (HRV)** using **NeuroKit2**. AI/ML application on ECG data.<br> 
+🔹 **Non coding variant analysis** – Benchmarking of different variant analysis tools  <br>
 🔹 **CVD Biomarker discovery using AI/ML** – Analysis of  transcriptomic data for biomarker prediction
 
 
