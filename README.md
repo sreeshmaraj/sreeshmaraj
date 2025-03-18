@@ -1,33 +1,23 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-# Hi, I'm [Your Name] 👋  
-### Bioinformatician | Data Scientist | Researcher  
+# I'm Sreeshma Raj K  
+### 🔬 Bioinformatician | Data Analyst | Researcher  
 
-🔬 Passionate about computational biology, ECG analysis, and machine learning for healthcare.  
-📊 Experienced in Python, R, MOFA, NeuroKit2, and clustering techniques.  
-📚 Exploring integrative multi-omics and statistical modeling for biomedical research.  
+I am passionate about **computational biology, ECG analysis, and machine learning in healthcare**. My expertise lies in **bioinformatics, multi-omics data integration, and statistical modeling**. I enjoy working with large datasets, developing analytical pipelines, and applying machine learning techniques to biological and clinical data.  
 
 ---
 
-## 🔬 My Work  
+## 🔍 **What I Do**  
 ### 🧬 Featured Projects  
-- **ECG Analysis & HRV Features** – Extracted and analyzed heart rate variability (HRV) using NeuroKit2.  
-- **Clustering & Dimensionality Reduction** – Applied PCA, UMAP, and K-Means on bioinformatics datasets.  
-- **MOFA for Multi-Omic Data Integration** – Implemented MOFA2 for analyzing biological modalities.  
+🔹 **ECG/HRV Analysis** – Extracted and analyzed **heart rate variability (HRV)** using **NeuroKit2**. AI/ML application on ECG data. 
+🔹 **Non coding variant analysis** – Benchmarking of different variant analysis tools  
+🔹 **CVD Biomarker discovery using AI/ML** – Analysis of  transcriptomic data for biomarker prediction
 
-📌 Check out my pinned repositories!  
 
----
 
-## 📫 Connect With Me  
-🌐 [My Website](https://yourwebsite.com)  
-🐦 [Twitter](https://twitter.com/yourhandle)  
-📜 [Google Scholar](https://scholar.google.com/citations?user=yourprofile)  
-💼 [LinkedIn](https://linkedin.com/in/yourname)  
+## 📫 **Connect With Me**  
+💼 **LinkedIn:** [Sreeshma Raj K]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/sreeshma-raj-k-942b13275/))  
 
 ---
 
-⭐ Feel free to fork, contribute, or discuss collaborations! 🚀  
-
--->
+⭐ **Feel free to fork, contribute, or discuss collaborations!** 🚀  
