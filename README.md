@@ -16,7 +16,7 @@ I am passionate about **computational biology, ECG analysis, and machine learnin
 
 
 ## 📫 **Connect With Me**  
-💼 **LinkedIn:** [Sreeshma Raj K]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/sreeshma-raj-k-942b13275/))  
+💼 **LinkedIn:** [Sreeshma Raj K](https://www.linkedin.com/in/sreeshma-raj-k-942b13275/)
 
 ---
 
